@@ -1,2 +1,2 @@
 # luxstay
-Have responsive, link web: https://sstatsuya.github.io/shopee/
+Have responsive, link web: https://sstatsuya.github.io/luxstay/
